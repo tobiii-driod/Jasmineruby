@@ -391,6 +391,7 @@ a:hover {
 	border-color: magenta;
 	color: white;
 	font-weight: bolder;
+	font-family: cursive;
 }
 
 #slider .yellow h3 {
