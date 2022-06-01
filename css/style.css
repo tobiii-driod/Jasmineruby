@@ -314,7 +314,7 @@ a:hover {
 }
 
 #slider .bx-pager a.active {
-	background: gold;
+	background: red;
 }
 
 #slider .bx-pager a {
@@ -349,7 +349,7 @@ a:hover {
 #slider .btn-more {
 	width: 112px;
 	display: block;
-	color: gold;
+	color: red;
 	font-family: "Novecentowide";
 	font-size: 15px;
 	font-weight: bolder;
@@ -372,7 +372,7 @@ a:hover {
 
 #slider h2 {
 	font-family: cursive;
-	color: gold;
+	color: red;
 	font-size: 58px;
 	line-height: 46px;
 	letter-spacing: 9px;
@@ -380,7 +380,7 @@ a:hover {
 }
 
 #slider .purple h3 {
-	color:gold;
+	color:red;
 	font-size: 38px;
 	font-weight: bolder;
 	font-family: cursive;
@@ -388,7 +388,7 @@ a:hover {
 }
 
 #slider .purple a {
-	border-color: gold;
+	border-color: red;
 	color: white;
 	font-weight: bolder;
 	font-family: cursive;
