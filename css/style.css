@@ -1554,17 +1554,20 @@ h1 {
 
 	#slider .btn-more {
 		margin: 10px auto;
+		
 	}
 
 	#slider h3 {
 		padding-top: 10px;
 		font-size: 19px;
+		font-family: cursive;
 	}
 
 	#slider h2 {
 		font-size: 28px;
 		margin: -14px 0 -10px;
 		letter-spacing: 1px;
+		font-family: cursive;
 	}
 
 	.quick-links article {
