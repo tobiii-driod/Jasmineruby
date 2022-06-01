@@ -435,9 +435,9 @@ a:hover {
 
 .products .btn-add {
 	height: 40px;
-	background-color: blue;
+	background-color: white;
 	display: block;
-	color: white;
+	color: black;
 	font-family: "Novecentowide";
 	font-size: 12px;
 	font-weight: 500;
