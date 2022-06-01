@@ -314,7 +314,7 @@ a:hover {
 }
 
 #slider .bx-pager a.active {
-	background: magenta;
+	background: gold;
 }
 
 #slider .bx-pager a {
@@ -327,7 +327,7 @@ a:hover {
 }
 
 #slider li {
-	color: magenta;
+	color: gold;
 	height: 500px;
 	background: no-repeat 100% 0;
 	background-size: cover;
@@ -372,7 +372,7 @@ a:hover {
 
 #slider h2 {
 	font-family: cursive;
-	color: magenta;
+	color: gold;
 	font-size: 58px;
 	line-height: 46px;
 	letter-spacing: 9px;
@@ -380,7 +380,7 @@ a:hover {
 }
 
 #slider .purple h3 {
-	color:magenta;
+	color:gold;
 	font-size: 38px;
 	font-weight: bolder;
 	font-family: cursive;
@@ -388,7 +388,7 @@ a:hover {
 }
 
 #slider .purple a {
-	border-color: magenta;
+	border-color: gold;
 	color: white;
 	font-weight: bolder;
 	font-family: cursive;
