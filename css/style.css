@@ -373,7 +373,7 @@ a:hover {
 #slider h2 {
 	font-family: cursive;
 	color: magenta;
-	font-size: 48px;
+	font-size: 58px;
 	line-height: 46px;
 	letter-spacing: 9px;
 	font-weight: bolder;
@@ -381,7 +381,7 @@ a:hover {
 
 #slider .purple h3 {
 	color:magenta;
-	font-size: 28px;
+	font-size: 38px;
 	font-weight: bolder;
 	font-family: cursive;
 
@@ -1559,12 +1559,12 @@ h1 {
 
 	#slider h3 {
 		padding-top: 10px;
-		font-size: 19px;
+		font-size: 29px;
 		font-family: cursive;
 	}
 
 	#slider h2 {
-		font-size: 28px;
+		font-size: 38px;
 		margin: -14px 0 -10px;
 		letter-spacing: 1px;
 		font-family: cursive;
